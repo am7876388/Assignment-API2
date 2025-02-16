@@ -39,7 +39,7 @@ This assignment involves building a RESTful API using Node.js, Express, and Mong
    - Create a `.env` file in the root directory.
    - Add the following lines:
      ```env
-     MONGODB_URI=<your-mongodb-connection-string>
+     MONGODB_URI=mongodb://localhost:27017/
      PORT=8000
      ```
 5. Start the server:
